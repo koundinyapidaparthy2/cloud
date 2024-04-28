@@ -1,0 +1,20 @@
+//! Top 15 Services Provided by Azure
+
+Azure Virtual Machines
+
+
+
+Azure App Service
+Azure SQL Database
+Azure Blob Storage
+Azure Functions
+Azure Kubernetes Service
+Azure Active Directory
+Azure Cosmos DB
+Azure DevOps
+Azure Cognitive Services
+Azure Machine Learning
+Azure Databricks
+Azure Virtual Network
+Azure Monitor
+Azure Security Center

@@ -1,0 +1,15 @@
+//! Top 10 Services Provided by Aws
+
+Amazon EC2
+
+
+
+Amazon S3 
+Amazon RDS (Relational Database Service)
+Amazon Lambda
+Amazon DynamoDB
+Amazon SNS (Simple Notification Service)
+Amazon SQS (Simple Queue Service)
+Amazon VPC (Virtual Private Cloud)
+Amazon ECS (Elastic Container Service)
+Amazon Redshift

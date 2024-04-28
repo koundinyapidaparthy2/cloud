@@ -1,0 +1,9 @@
+What are resource groups in any cloud service?
+    Resource groups helps to group different resources.
+
+    Advantages:
+        Resource allocation and deployment
+        Security and access control
+        Cost management and billing
+        Monitoring and troubleshooting
+        Automation and orchestration
